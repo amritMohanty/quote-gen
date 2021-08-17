@@ -1,3 +1,5 @@
+This project is hosted using Netlify. click to visit -> [QUOTE-GEN WEB APP](https://wizardly-stonebraker-b01245.netlify.app).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
